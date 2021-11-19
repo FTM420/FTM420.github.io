@@ -1,3 +1,3 @@
-## Watch theme by ThemeWagon team.
----
-Thank you for using Watch See the "public" folder, you will find everything ready to use there. If you want to use the gulp based workflow, cd to this directory in your terminal and run this command: npm i && gulp
+## ftm420.github.io
+
+420 is a decentralized club on Fantom Blockchain; by degens for everyone
